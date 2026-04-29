@@ -4,7 +4,7 @@
 # Status Enum Package
 
 A lightweight, reusable PHP 8.1+ package that standardizes enum usage for dropdowns, validation, and display logic—especially useful in Laravel applications.
-
+some changes may apply
 ---
 
 ## ✨ Features
