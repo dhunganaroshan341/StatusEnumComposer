@@ -9,7 +9,7 @@ some changes may apply
 
 ## ✨ Features
 
-- Enum value extraction for validation
+<!-- - Enum va/lue extraction for validation -->
 - Dropdown-friendly options
 - Clean label formatting
 - Built-in validation rule
